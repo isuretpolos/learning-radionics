@@ -6,4 +6,3 @@ lines = rateList.readlines()
 
 for line in lines:
     print(line)
-
